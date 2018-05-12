@@ -1,0 +1,30 @@
+_repo: On-the-Trail-of-The-Immigrant_40887
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 40887-h/images/cover_lg.jpg
+creator:
+  author:
+    agent_name: Steiner, Edward Alfred
+    alias: Steiner, Edward A.
+    birthdate: 1866
+    deathdate: 1956
+    gutenberg_agent_id: '40878'
+    url: http://www.gutenberg.org/2009/agents/40878
+description: ''
+gutenberg_issued: '2012-09-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40887'
+  lccn: 06039003
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States -- Emigration and immigration'
+- !lcsh 'Aliens -- United States'
+- !lcc 'JV'
+- !lcsh 'United States -- Social conditions -- 1865-1918'
+title: On the Trail of the Immigrant
+url: http://www.gutenberg.org/ebooks/40887
